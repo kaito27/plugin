@@ -1,0 +1,64 @@
+*{
+    font-family: sans-serif;
+}
+
+.calc{
+    position: relative;
+    margin: 20px auto; 
+    width: 250px;
+    height: auto;
+    padding: 10px;
+    background: #fff;
+}
+
+.aaa{
+    padding: 10px;
+    padding-left: 12px;
+    background: #212020;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.campo{
+    width: 100%;
+    height: 90px;
+    border: none;
+    background-color: #afafaf;
+    font-size: 35px;
+    text-align: right;
+    border-radius: 20px 20px 0px 0px;
+
+}   
+
+
+.Resultado{
+    position: relative;
+    border-radius: 20px 20px 0px 0px;
+    padding: 6px;
+    background-color: #848484;
+}
+
+.btn{
+    margin-top: 1px;
+    width: 41px;
+    border: double #000;
+    background-color: rgb(219, 0, 54);
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color:#96151e; 
+}
+
+
+.igual{
+    width: 15.1%;
+    height: 23.3%;
+    position: absolute;
+}
+
+.zero{
+    width: 37.65%;
+    height: 15.8%;
+}
+
